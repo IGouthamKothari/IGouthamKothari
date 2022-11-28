@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IGouthamKothari
+- 👀 I’m interested in Data Science, Machine Learning, Cyber Security and Web Developement 
+- 🌱 I’m currently learning Data Science
+- 📚 I have completed trainings on Full Stack Web Development, Ethical Hacking(Web), Python, C++,C etc.
+- 📫 Connect me via LinkedIn www.linkedin.com/in/goutham-b-7b804a213 or mail gouthamkothari8@gmail.com
